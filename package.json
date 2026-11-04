@@ -1,0 +1,13 @@
+{
+  "name": "amblyopia-training-lab",
+  "version": "1.0.0",
+  "description": "Game-based home vision training for adults with amblyopia, with clinic admin, doctor and patient roles. Runs entirely in the browser.",
+  "private": true,
+  "scripts": {
+    "build": "node build.mjs"
+  },
+  "keywords": ["amblyopia", "lazy eye", "vision therapy", "dichoptic", "anaglyph", "webgl"],
+  "devDependencies": {
+    "esbuild": "^0.24.0"
+  }
+}
